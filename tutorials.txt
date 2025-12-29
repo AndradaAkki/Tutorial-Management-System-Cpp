@@ -1,0 +1,20 @@
+a
+a
+3 1
+23
+https://en.wikipedia.org/wiki/C%2B%2B
+afrsdg
+agshdf
+1 0
+0
+https://en.wikipedia.org/wiki/High-level_programming_language
+c
+c
+2 2
+2
+https://en.wikipedia.org/wiki/Machine_coded
+d
+c
+2 3
+3
+https://en.wikipedia.org/wiki/Graphics_processing_unit
