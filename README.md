@@ -15,8 +15,7 @@ The project demonstrates proficiency in **Object-Oriented Programming (OOP)**, *
 * **Language:** C++ (STL Vectors, Smart Pointers, Inheritance)
 * **GUI Framework:** Qt (QWidget, Signals & Slots, Layout Management)
 * **IDE:** Visual Studio (MSVC Compiler)
-* **Persistence:** File-based storage (`tutorials.txt`) / *[Note: If you added SQL later, change this to "SQL Database"]*
-
+* **Persistence:** File-based storage (`tutorials.txt`) 
 ## ✨ Key Features
 
 ### 👨‍💻 Administrator Mode
