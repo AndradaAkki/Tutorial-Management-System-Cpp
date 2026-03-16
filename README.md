@@ -26,7 +26,7 @@ The project demonstrates proficiency in **Object-Oriented Programming (OOP)**, *
 ### 👤 User Mode
 * **Browse & Filter:** View available tutorials with options to filter by category or presenter.
 * **Watchlist Management:** Users can add tutorials to a personal "Watchlist," delete them, or view them in a browser.
-* **CSV/HTML Export:** *(If your project does this, keep this line, otherwise delete)* Export the watchlist to external file formats.
+* **CSV/HTML Export:** Export the watchlist to external file formats.
 
 ## 📂 Project Structure
 * `main.cpp` - Entry point of the application.
