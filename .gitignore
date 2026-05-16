@@ -1,0 +1,29 @@
+# Build output
+x64/
+debug/
+release/
+*.exe
+*.pdb
+*.obj
+*.ilk
+
+# Qt generated
+*.moc
+moc_*.cpp
+qrc_*.cpp
+ui_*.h
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.aps
+*.ncb
+*.opensdf
+*.sdf
+*.vcxproj.user
+
+# Qt build dirs inside project
+Qt3/x64/
+Qt3/debug/
+Qt3/release/
